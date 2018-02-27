@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [Dmitry Chekunov](https://up.htmlacademy.ru/htmlcss/20/user/568581).
-* Наставник: `Неизвестно`.
+* Наставник: [Александр Собакарь](https://htmlacademy.ru/profile/id128451).
 
 ---
 
